@@ -1,0 +1,71 @@
+body {
+  background-image: url(https://media.architecturaldigest.com/photos/599f42aa050e4c32e970daeb/master/pass/Juscelino%20Kubitschek%20Bridge.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  filter: alpha(Opacity=60);
+}
+
+.a,.b,.c {
+  float:left;
+  padding: 30px;
+  background-color: white;
+  width: 10%;
+  height: 10%;
+  border: 2px groove black;
+  margin-right: 50px;
+  text-align:center;
+  border-radius: 36%;
+  font-family: fantasy;
+  font-size: 28px;
+
+}
+.menu {
+  margin-left: 25%;
+  margin-top: 20px;
+}
+.a:hover{
+  background-image: url('https://orig00.deviantart.net/90e0/f/2011/359/6/0/dancing_fork_by_crazytree101-d4k7x2d.gif');
+  background-size:80% 100%;
+  text-align: right;
+  background-repeat: no-repeat;
+
+}
+.b:hover{
+  background-image: url('https://i.gifer.com/9GMK.gif');
+  background-size:80% 100%;
+  text-align: right;
+  background-repeat: no-repeat;
+  }
+
+  .c:hover{
+    background-image: url('https://i.gifer.com/B61e.gif');
+    background-size:100% 100%;
+    text-align: right;
+    background-repeat: no-repeat;
+  }
+
+.main {
+  padding-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.paragraph {
+  font-style:normal;
+  font-size: 18px;
+  text-align: justify;
+  font-family: sans-serif;
+  background: rgba(255, 255, 255, 0.5);
+  padding-right: 4%;
+  padding-left: 4%;
+}
+.footer {
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+.contactname,.contactphone {
+  float: left;
+  margin-left: : 30px;
+  margin-right: 30PX;
+  margin-top: 5PX;
+}
